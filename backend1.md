@@ -7,7 +7,7 @@ Task 2
   2.环境变量：JAVA_HOME  CLASSPATH  修改Path;
              JAVA HOME是用于确定JDK的安装目录;
              classpath是Java运行时环境搜索类和其他资源文件(比如jarlzip等资源)的路径;
-             path是使操作系统可以在任意位置获得需要执行的程序，可以在任意目录下，执行java、javac等命令。;
+             path是使操作系统可以在任意位置获得需要执行的程序，可以在任意目录下，执行java、javac等命令，方便系统找到对应的文件运行;
              由此可见三者在Java方便运行中不可或缺
 
 Task 3
